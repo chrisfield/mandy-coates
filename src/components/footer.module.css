@@ -1,0 +1,12 @@
+a.link {
+  text-decoration: none;
+  background-image: none;
+  padding: 5px;
+}
+
+.links {
+  border-top: 1px solid #cccccc;
+  padding-top: 5px;
+  display: flex;
+  justify-content: center;
+}
