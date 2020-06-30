@@ -1,12 +1,23 @@
 images:
-  - image: f1a.jpg
+  - image: 1a.jpg
     alt: image 1
-  - image: f1b.jpg
-  - image: f2.jpg
-  - image: f3.jpg
-  - image: f4.jpg
-  - image: f5.jpg
-  - image: f9.jpg
-  - image: f10.jpg
-  - image: f11.jpg
+  - image: 1b.jpg
+  - image: 2.jpg
+  - image: 3.jpg
+  - image: 4.jpg
+  - image: 5.jpg
+  - image: 6.jpg
+  - image: 7.jpg
+  - image: 8.jpg
+  - image: 9.jpg
+  - image: 10.jpg
+  - image: 11.jpg
+  - image: 12.jpg
+  - image: 13.jpg
+  - image: 14.jpg
   - image: 15.jpg
+  - image: 16.jpg
+  - image: 17.jpg
+  - image: 18.jpg
+  - image: 19.jpg
+  - image: 20.jpg
